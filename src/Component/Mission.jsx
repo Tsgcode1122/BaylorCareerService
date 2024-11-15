@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import Heading from "../FixedComponent/Heading";
-import missionImg from "../Images/hero.jpg";
+import newImg from "../Images/hero.jpg";
 import { Colors } from "../Colors/ColorComponent";
 
 const Mission = () => {
@@ -33,7 +33,7 @@ const Mission = () => {
             </p>
           </> */}
         </div>
-        <img src={missionImg} />
+        <img src={newImg} />
       </Content>
     </Container>
   );
