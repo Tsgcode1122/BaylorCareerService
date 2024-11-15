@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import Heading from "../FixedComponent/Heading";
-import newImg from "../Images/hero.jpg";
+import newImg from "../IconImages/Hero.jpg";
 import { Colors } from "../Colors/ColorComponent";
 
 const Mission = () => {
@@ -19,7 +19,7 @@ const Mission = () => {
               coaching, top resources, connections with employers, graduate
               school planning, and much more. Our vision is to build a culture
               of career readiness that is essential to the Baylor experience and
-              empower students to live the lives they design.{" "}
+              empower students to live the lives they design.
             </p>
           </Vision>
           {/* <>
