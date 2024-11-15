@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import Heading from "../FixedComponent/Heading";
-import missionImg from "../Images/hero2.jpg";
+import missionImg from "../Images/hero.jpg";
 import { Colors } from "../Colors/ColorComponent";
 
 const Mission = () => {
